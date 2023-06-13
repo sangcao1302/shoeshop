@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.15efcd9f.js",
-    "index.html": "/index.html",
-    "main.15efcd9f.js.map": "/static/js/main.15efcd9f.js.map"
+    "main.js": "/shoeshop/static/js/main.15efcd9f.js",
+    "index.html": "/shoeshop/index.html",
+    "main.15efcd9f.js.map": "/shoeshop/static/js/main.15efcd9f.js.map"
   },
   "entrypoints": [
     "static/js/main.15efcd9f.js"
